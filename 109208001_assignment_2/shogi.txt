@@ -1,0 +1,1 @@
+start1  start2  startsymb  end1  end2  endsymb  
